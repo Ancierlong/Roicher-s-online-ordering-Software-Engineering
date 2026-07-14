@@ -1,4 +1,4 @@
-Roicher's online ordering
+Software Engineering: Roicher's online ordering
 
 Functionalities
 - User Authentication & Management: Secure registration and login system for customers to manage their profiles and track orders.
