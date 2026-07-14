@@ -1,0 +1,13 @@
+
+.productcard{
+    border-radius: 10px;
+    text-align: center;
+    border: solid black 2px;
+    width:30%;
+    background-color: white;
+    align-content: center;
+    margin-bottom: 10px;
+    
+    
+}
+
